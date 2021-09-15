@@ -1,13 +1,13 @@
 {
-  "BaseServerArgs": "",
+  "BaseServerArgs": "%MapName%%GridLocation%?MaxPlayers=200?ReservedPlayerSlots=50?QueryPort=%QUERYPORT%?Port=%PORT%?SeamlessIP=%MACHINEIP%?MapPlayerLocation=true%AdditionalMapArguements% -log -server -culture=en  -NoBattlEye",
   "gridSize": 1400000.0,
-  "MetaWorldURL": "",
+  "MetaWorldURL": "https://drive.google.com/drive/folders/1zyYZxbPozpLYX4wqMBJrbzsY1tqTj6Xu",
   "WorldFriendlyName": "Blunderdome Atlas",
-  "WorldAtlasId": "675249191",
+  "WorldAtlasId": "50649383",
   "AuthListURL": "",
   "WorldAtlasPassword": "",
   "ModIDs": "",
-  "MapImageURL": "",
+  "MapImageURL": "https://drive.google.com/file/d/1RBmUnXRaTP-XqVWrtErPftTZkMjcvUxu/view",
   "totalGridsX": 2,
   "totalGridsY": 2,
   "bUseUTCTime": true,
@@ -99,10 +99,10 @@
     }
   ],
   "coordsScaling": 0.00015,
-  "showServerInfo": false,
+  "showServerInfo": true,
   "showDiscoZoneInfo": true,
   "showShipPathsInfo": false,
-  "showIslandNames": false,
+  "showIslandNames": true,
   "showBackground": true,
   "backgroundImgPath": "./WaterTiles/instinctworld-autoscaling.png",
   "discoZonesImagePath": "Resources/discoZoneBox.png",
@@ -357,7 +357,7 @@
           "landscapeMaterialOverride": 8
         }
       ],
-      "lastModified": "2021-09-15T06:32:25.9477574Z",
+      "lastModified": "2018-12-20T04:03:27.6161064Z",
       "lastImageOverride": "0001-01-01T00:00:00",
       "islandLocked": false,
       "discoLocked": false,
@@ -601,9 +601,9 @@
       "MachineIdTag": "NA_AtlasPVP1_1",
       "ip": "172.93.109.154",
       "name": "",
-      "port": 57563,
-      "gamePort": 5763,
-      "seamlessDataPort": 27002,
+      "port": 57569,
+      "gamePort": 5769,
+      "seamlessDataPort": 27008,
       "isHomeServer": false,
       "AdditionalCmdLineParams": "",
       "OverrideShooterGameModeDefaultGameIni": {},
@@ -627,7 +627,7 @@
         {
           "name": "Cay_J",
           "additionalTranslationX": 119999.938,
-          "additionalTranslationY": -40001.125,
+          "additionalTranslationY": -40000.625,
           "additionalTranslationZ": 0.0,
           "additionalRotationPitch": 0.0,
           "additionalRotationYaw": 0.0,
@@ -638,7 +638,7 @@
         {
           "name": "Cay_J_Far_01B",
           "additionalTranslationX": 119999.938,
-          "additionalTranslationY": -40001.125,
+          "additionalTranslationY": -40000.625,
           "additionalTranslationZ": 0.0,
           "additionalRotationPitch": 0.0,
           "additionalRotationYaw": 0.0,
@@ -649,7 +649,7 @@
         {
           "name": "Cay_J_Farthest_01B",
           "additionalTranslationX": 119999.938,
-          "additionalTranslationY": -40001.125,
+          "additionalTranslationY": -40000.625,
           "additionalTranslationZ": 0.0,
           "additionalRotationPitch": 0.0,
           "additionalRotationYaw": 0.0,
@@ -660,7 +660,7 @@
         {
           "name": "Cay_J_Near_01B",
           "additionalTranslationX": 119999.938,
-          "additionalTranslationY": -40001.125,
+          "additionalTranslationY": -40000.625,
           "additionalTranslationZ": 0.0,
           "additionalRotationPitch": 0.0,
           "additionalRotationYaw": 0.0,
@@ -671,7 +671,7 @@
         {
           "name": "Cay_J_Marine_Warm_Near",
           "additionalTranslationX": 119999.938,
-          "additionalTranslationY": -40001.125,
+          "additionalTranslationY": -40000.625,
           "additionalTranslationZ": 0.0,
           "additionalRotationPitch": 0.0,
           "additionalRotationYaw": 0.0,
@@ -845,7 +845,7 @@
           "landscapeMaterialOverride": 8
         }
       ],
-      "lastModified": "2021-09-15T06:37:01.7718216Z",
+      "lastModified": "2021-09-15T23:25:09.6203564Z",
       "lastImageOverride": "0001-01-01T00:00:00",
       "islandLocked": false,
       "discoLocked": false,
@@ -904,7 +904,7 @@
           "singleSpawnPointZ": 1500.0,
           "maxIslandClaimFlagZ": 3600.0,
           "worldX": 819999.938,
-          "worldY": 2059998.88,
+          "worldY": 2059999.38,
           "rotation": 0.0
         },
         {
@@ -1085,9 +1085,9 @@
       "MachineIdTag": "NA_AtlasPVP1_4",
       "ip": "172.93.109.154",
       "name": "",
-      "port": 57562,
-      "gamePort": 5762,
-      "seamlessDataPort": 27001,
+      "port": 57565,
+      "gamePort": 5765,
+      "seamlessDataPort": 27004,
       "isHomeServer": false,
       "AdditionalCmdLineParams": "",
       "OverrideShooterGameModeDefaultGameIni": {},
@@ -1329,7 +1329,7 @@
           "landscapeMaterialOverride": 8
         }
       ],
-      "lastModified": "2021-09-15T06:32:31.5907722Z",
+      "lastModified": "2018-12-20T04:08:33.8170774Z",
       "lastImageOverride": "0001-01-01T00:00:00",
       "islandLocked": false,
       "discoLocked": false,
@@ -1581,9 +1581,9 @@
       "MachineIdTag": "NA_AtlasPVP1_5",
       "ip": "172.93.109.154",
       "name": "",
-      "port": 57564,
-      "gamePort": 5764,
-      "seamlessDataPort": 27003,
+      "port": 57573,
+      "gamePort": 5773,
+      "seamlessDataPort": 27012,
       "isHomeServer": false,
       "AdditionalCmdLineParams": "",
       "OverrideShooterGameModeDefaultGameIni": {},
@@ -1825,7 +1825,7 @@
           "landscapeMaterialOverride": 8
         }
       ],
-      "lastModified": "2021-09-15T06:32:07.2307257Z",
+      "lastModified": "2018-12-20T04:08:07.1180687Z",
       "lastImageOverride": "0001-01-01T00:00:00",
       "islandLocked": false,
       "discoLocked": false,
@@ -2108,37 +2108,8 @@
   ],
   "idGenerator": 1148,
   "regionsIdGenerator": 0,
-  "shipPathsIdGenerator": 6,
-  "shipPaths": [
-    {
-      "Nodes": [
-        {
-          "controlPointsDistance": 219114.7,
-          "worldX": 1686666.0,
-          "worldY": 1636666.63,
-          "rotation": -43.929348
-        },
-        {
-          "controlPointsDistance": 234188.453,
-          "worldX": 1433333.25,
-          "worldY": 780000.438,
-          "rotation": -184.241653
-        },
-        {
-          "controlPointsDistance": 259422.422,
-          "worldX": 1013333.31,
-          "worldY": 1263333.25,
-          "rotation": 114.036285
-        }
-      ],
-      "PathId": 5,
-      "isLooping": false,
-      "PathName": "GhostShip",
-      "AutoSpawnShipClass": "Blueprint'/Game/Atlas/ShipPaths/PathFollowingGhostShip_BP.PathFollowingGhostShip_BP'",
-      "AutoSpawnEveryUTCInterval": 21600,
-      "autoSpawn": true
-    }
-  ],
+  "shipPathsIdGenerator": 2,
+  "shipPaths": [],
   "lastImageOverride": "0001-01-01T00:00:00",
   "serverTemplates": [
     {
