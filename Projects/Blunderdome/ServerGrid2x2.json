@@ -1,13 +1,13 @@
 {
   "BaseServerArgs": "%MapName%%GridLocation%?MaxPlayers=200?ReservedPlayerSlots=50?QueryPort=%QUERYPORT%?Port=%PORT%?SeamlessIP=%MACHINEIP%?MapPlayerLocation=true%AdditionalMapArguements% -log -server -culture=en  -NoBattlEye",
   "gridSize": 1400000.0,
-  "MetaWorldURL": "https://drive.google.com/drive/folders/1zyYZxbPozpLYX4wqMBJrbzsY1tqTj6Xu",
+  "MetaWorldURL": "",
   "WorldFriendlyName": "Blunderdome Atlas",
   "WorldAtlasId": "50649383",
   "AuthListURL": "",
-  "WorldAtlasPassword": "",
+  "WorldAtlasPassword": "Valkyria",
   "ModIDs": "",
-  "MapImageURL": "https://drive.google.com/file/d/1RBmUnXRaTP-XqVWrtErPftTZkMjcvUxu/view",
+  "MapImageURL": "",
   "totalGridsX": 2,
   "totalGridsY": 2,
   "bUseUTCTime": true,
@@ -99,7 +99,7 @@
     }
   ],
   "coordsScaling": 0.00015,
-  "showServerInfo": true,
+  "showServerInfo": false,
   "showDiscoZoneInfo": true,
   "showShipPathsInfo": false,
   "showIslandNames": true,
@@ -627,7 +627,7 @@
         {
           "name": "Cay_J",
           "additionalTranslationX": 119999.938,
-          "additionalTranslationY": -40000.625,
+          "additionalTranslationY": -40001.125,
           "additionalTranslationZ": 0.0,
           "additionalRotationPitch": 0.0,
           "additionalRotationYaw": 0.0,
@@ -638,7 +638,7 @@
         {
           "name": "Cay_J_Far_01B",
           "additionalTranslationX": 119999.938,
-          "additionalTranslationY": -40000.625,
+          "additionalTranslationY": -40001.125,
           "additionalTranslationZ": 0.0,
           "additionalRotationPitch": 0.0,
           "additionalRotationYaw": 0.0,
@@ -649,7 +649,7 @@
         {
           "name": "Cay_J_Farthest_01B",
           "additionalTranslationX": 119999.938,
-          "additionalTranslationY": -40000.625,
+          "additionalTranslationY": -40001.125,
           "additionalTranslationZ": 0.0,
           "additionalRotationPitch": 0.0,
           "additionalRotationYaw": 0.0,
@@ -660,7 +660,7 @@
         {
           "name": "Cay_J_Near_01B",
           "additionalTranslationX": 119999.938,
-          "additionalTranslationY": -40000.625,
+          "additionalTranslationY": -40001.125,
           "additionalTranslationZ": 0.0,
           "additionalRotationPitch": 0.0,
           "additionalRotationYaw": 0.0,
@@ -671,7 +671,7 @@
         {
           "name": "Cay_J_Marine_Warm_Near",
           "additionalTranslationX": 119999.938,
-          "additionalTranslationY": -40000.625,
+          "additionalTranslationY": -40001.125,
           "additionalTranslationZ": 0.0,
           "additionalRotationPitch": 0.0,
           "additionalRotationYaw": 0.0,
@@ -845,7 +845,7 @@
           "landscapeMaterialOverride": 8
         }
       ],
-      "lastModified": "2021-09-15T23:25:09.6203564Z",
+      "lastModified": "2021-09-15T23:55:31.1004072Z",
       "lastImageOverride": "0001-01-01T00:00:00",
       "islandLocked": false,
       "discoLocked": false,
@@ -904,7 +904,7 @@
           "singleSpawnPointZ": 1500.0,
           "maxIslandClaimFlagZ": 3600.0,
           "worldX": 819999.938,
-          "worldY": 2059999.38,
+          "worldY": 2059998.88,
           "rotation": 0.0
         },
         {
